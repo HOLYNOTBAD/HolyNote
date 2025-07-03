@@ -1,0 +1,2 @@
+# LinuxDebugNote
+记录holy在使用linux系统过程中遇到的问题
